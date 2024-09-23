@@ -1,4 +1,8 @@
-# Cauan Cesar de Oliveira Almeida
+<div align="center">
+  
+  # Cauan Cesar de Oliveira Almeida
+  <img src="https://avatars.githubusercontent.com/u/49292910?s=400&u=44d35b9b73ea101a6a70945c4170da1ffaa56242&v=4" alt="Foto" width="300" height="300" />
+</div>
 
 ## Introdução
 
