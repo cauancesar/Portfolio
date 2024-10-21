@@ -121,7 +121,7 @@ Além disso, a comunicação foi crucial para manter o alinhamento com o cliente
 
 <details>
 <summary>
-  <h3>Em 2023-2 - Sistema de Organização, Gerenciamento e Auditoria de Processos (S.O.G.A.P.)</h3>
+  <h3>Em 2023-2 - Sistema de Organização, Gerenciamento e Auditoria de Processos (SOGAP)</h3>
 </summary>
 
 ##
