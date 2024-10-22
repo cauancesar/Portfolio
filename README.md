@@ -12,6 +12,8 @@ Meu nome é Cauan Cesar de Oliveira Almeida. Iniciei meus estudos na área de te
 
 Com o passar dos semestres, meu interesse em aprender mais linguagens cresceu. A lógica de programação me fez entender melhor como tudo funciona, desde sistemas até jogos e aplicativos. Tranquei o curso em 2020 devido à pandemia, mas retornei em 2023 determinado a concluir essa jornada e me aprofundar ainda mais no desenvolvimento de software.
 
+Atualmente, estou em busca de novas oportunidades para aplicar e expandir minhas habilidades, contribuindo com soluções inovadoras e participando de projetos desafiadores na área de tecnologia.
+
 ## Contatos
 * [GIT](https://www.github.com/cauancesar)
 * [LinkedIn](https://www.linkedin.com/in/cauancesar-almeida/)
