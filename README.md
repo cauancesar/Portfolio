@@ -203,7 +203,13 @@ Por fim, também trabalhei na correção de erros de layout, padronizando os mod
 ##
 
 #### Soft Skills
-Durante o projeto, aprimorei minhas habilidades em resolução de problemas, especialmente ao trabalhar com a API. Enfrentamos diversos bugs que impactavam a funcionalidade do sistema. Através de análises detalhadas e testes, consegui identificar e corrigir várias falhas. Apresentei essas soluções em uma reunião de equipe, onde minha iniciativa foi bem recebida, demonstrando como a autonomia e a proatividade podem contribuir significativamente para o andamento do projeto.
+Durante o projeto SOGAP, trabalhei em diversas frentes de desenvolvimento que me desafiaram a aprimorar minhas soft skills, especialmente nas áreas de resolução de problemas, comunicação e proatividade.
+
+**Resolução de Problemas** - Um exemplo específico de como utilizei minhas habilidades de resolução de problemas foi ao lidar com um bug crítico relacionado ao filtro de ordenação de processos na aplicação. O bug impedia que os processos fossem ordenados corretamente, o que impactava a experiência do usuário. Após uma análise cuidadosa, descobri que a lógica de ordenação estava falhando devido a inconsistências nos dados retornados pela API. Para corrigir isso, alterei a lógica de ordenação para garantir que os dados fossem formatados corretamente antes de serem enviados para a interface. Além disso, implementei uma verificação de consistência nos dados para evitar que o problema se repetisse no futuro. A solução foi bem recebida pela equipe e melhorou significativamente a performance do sistema.
+
+**Comunicação** - Para implementar as modificações necessárias nos filtros de ordenação, precisei comunicar claramente as mudanças com os outros membros da equipe, especialmente ao mostrar como os filtros estavam funcionando no código e como seria feito o deploy. Essa comunicação garantiu que as modificações fossem feitas de maneira rápida e sem grandes contratempos.
+
+**Proatividade** - Durante a integração da funcionalidade de envio de imagens no sistema de cadastro de usuários, identifiquei que o processo de upload de fotos estava demorando mais do que o esperado devido à falta de otimização na maneira como as imagens eram tratadas pelo sistema. Tomei a iniciativa de pesquisar e implementar uma solução para otimizar o envio das imagens, o que resultou em uma melhoria na performance da aplicação.
 
 <hr>
 </details>
@@ -306,7 +312,7 @@ Durante o desenvolvimento deste projeto, uma das situações que mais me desafio
 
 <details>
 <summary>
-<h3>Em 2024-2 - ClimaTrack (Em progresso...)</h3>
+<h3>Em 2024-2 - ClimaTrack</h3>
 </summary>
 
 ##
@@ -360,7 +366,11 @@ Como solução, desenvolvemos um aplicativo para auxiliar produtores rurais no m
 ##
 
 #### Contribuições Pessoais
-...
+Nesse projeto, atuei como desenvolvedor no back-end, sendo responsável por diversas funcionalidades essenciais, especialmente na criação e gerenciamento do sistema de notificações. Utilizei Python com o framework FastAPI para implementar uma rotina agendada com APScheduler, que realiza verificações diárias às 7 horas nas áreas salvas pelos usuários, garantindo que qualquer condição climática fora dos parâmetros definidos gere uma notificação.
+
+Fui responsável por integrar as APIs OpenWeather e NASA POWER, que fornecem dados climáticos atualizados. Desenvolvi tratamentos de erros para garantir a confiabilidade das respostas dessas APIs e a correta geração de notificações. Essas notificações foram salvas no Firebase Firestore, onde assegurei que as informações fossem estruturadas de forma eficiente e ficassem disponíveis para o front-end.
+
+No front-end, integrei um listener para a coleção de notificações no Firebase, permitindo que os dados fossem atualizados automaticamente e exibidos em um componente dedicado. Dessa forma, garanti uma comunicação fluida entre o back-end e o front-end.
 
 ##
 
@@ -374,7 +384,14 @@ Como solução, desenvolvemos um aplicativo para auxiliar produtores rurais no m
 ##
 
 #### Soft Skills
-...
+Durante o desenvolvimento do sistema de notificações, utilizei diversas soft skills que foram essenciais para a integração e colaboração dentro da equipe.
 
+**Comunicação** - A comunicação foi fundamental quando precisei explicar o funcionamento do sistema de notificações que criei para os membros da equipe que seriam responsáveis por integrar múltiplas verificações climáticas. Organizei pequenas reuniões para demonstrar como o sistema estava estruturado, detalhando onde a função de verificação se encaixava no código e como os dados eram enviados ao front-end. Essa clareza ajudou a equipe a entender o fluxo e a realizar a integração sem dificuldades, além de garantir que todos estivessem alinhados quanto ao processo de desenvolvimento.
+
+**Colaboração** - Durante o processo de integração com as APIs de clima e a conexão com o Firebase, foi necessário trabalhar em conjunto com outros desenvolvedores que estavam implementando diferentes partes do sistema. Meu papel era garantir que os dados da notificação fossem salvos corretamente no banco de dados e acessados pelo front-end. Para isso, precisei colaborar de forma constante, discutindo soluções técnicas e ajustando o código conforme necessário. A colaboração foi essencial para garantir que todos os componentes do sistema funcionassem de maneira integrada e eficiente.
+
+**Resolução de Problemas** - Em alguns momentos, houve desafios relacionados ao tratamento de erros nas respostas das APIs. Utilizei minhas habilidades de resolução de problemas para identificar falhas nas requisições e implementando soluções adequadas para garantir que o sistema fosse resiliente. Após identificar a origem do problema, desenvolvi abordagens para lidar com as falhas de forma que o impacto no sistema fosse minimizado e a experiência do usuário não fosse comprometida.
+
+**Organização** - Dada a complexidade do sistema e a necessidade de integração de múltiplas verificações, uma boa organização foi crucial para garantir que todas as partes do projeto fossem desenvolvidas de maneira coordenada. Planejei e documentei o processo de integração e como cada verificação climática deveria ser tratada, o que facilitou o entendimento e a execução da tarefa pelos outros membros da equipe.
 <hr>
 </details>
