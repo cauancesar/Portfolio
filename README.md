@@ -36,94 +36,7 @@ Meu foco está no desenvolvimento back-end, embora também tenha um bom conhecim
 
 <details>
 <summary>
-<h3>Em 2020-2 - FastChat Help Desk</h3>
-</summary>
-
-##
-
-O projeto foi desenvolvido em parceria com a Anova Sistemas, uma empresa de soluções tecnológicas, com foco na automação e otimização de processos para seus clientes. Os requisitos foram apresentados durante a reunião de Kick-Off, através do professor e PO responsável, Cláudio Etelvino de Lima.
-
-A necessidade apresentada pela Anova foi a criação de um sistema de comunicação interno que permitisse a interação em tempo real entre colaboradores e clientes. Esse sistema precisava ser eficiente, responsivo, e com níveis de acesso claramente definidos, facilitando a comunicação e o gerenciamento de contatos de maneira centralizada.
-
-Como solução, foi desenvolvido um sistema de comunicação interna, permitindo a interação em tempo real entre funcionários e clientes. O sistema conta com uma interface flutuante e intuitiva, níveis de permissão para diferentes usuários e integração com um banco de dados relacional. Além disso, implementamos um chatbot com inteligência artificial para automatizar o atendimento e ajudar na resolução de dúvidas e solicitações.
-
-<h4><details><br>
-<summary>Detalhes ...</summary>
-
-## Algumas imagens do sistema
-
-* <b>Dashboard de Atividades</b>
-<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Ativ_1.jpg"/>
-
-###
-
-* <b>Inserção de Atividades</b>
-<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/InsAtiv_1.jpg"/>
-
-###
-
-* <b>Tela do Chat e Contatos</b>
-<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Chat_1.jpg"/>
-
-###
-
-* <b>Grupos de Pessoas no Chat</b>
-<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Grupos_1.jpg"/>
-
-</details>
-</h4>
-
-##
-
-#### Repositório do Projeto
-[Github - FastChat Help Desk](https://github.com/ads-fatec-fastchat/fast-chat)
-
-##
-
-#### Tecnologias Utilizadas
-* Java Spring Boot: Utilizado no backend para gerenciar as requisições, criar rotas de API, autenticação, e comunicação com o banco de dados. Sua robustez e escalabilidade foram essenciais para garantir um backend eficiente e seguro.
-* Python: Empregado na criação do chatbot, responsável por processar interações dos usuários, implementar a lógica conversacional e fornecer respostas automatizadas baseadas em consultas ao banco de dados.
-* MySQL: Usado como o banco de dados principal para armazenar informações do bot e dados gerais da aplicação. Sua confiabilidade e fácil integração com o backend permitiram uma gestão eficiente dos dados.
-* Firebase: Utilizado no frontend, principalmente para o gerenciamento de autenticação e hospedagem de dados em tempo real, melhorando a comunicação entre o frontend e o backend.
-* Vue.js: Framework JavaScript adotado no frontend para criar interfaces interativas e dinâmicas. Sua flexibilidade permitiu o desenvolvimento de uma experiência de usuário fluida e responsiva.
-* Maven: Ferramenta de automação de build, utilizada para gerenciar dependências no projeto e facilitar o processo de compilação e execução da aplicação Java.
-
-##
-
-#### Contribuições Pessoais
-Nesse projeto, assumi o papel de Product Owner (PO), sendo responsável por gerenciar e validar o andamento do projeto, sempre buscando garantir que o desenvolvimento estivesse alinhado com as expectativas do cliente.
-
-Uma das minhas principais responsabilidades foi cuidar de toda a documentação do projeto, abrangendo desde o Plano de Gerenciamento de Riscos até a Declaração de Escopo, Matriz RACI e o Plano de Negócios. Esses documentos foram fundamentais para organizar o fluxo de trabalho e possibilitar uma visão clara e estruturada das etapas e riscos envolvidos no projeto.
-
-Além da criação e manutenção da documentação, estive em constante contato com o cliente, realizando validações frequentes tanto dos requisitos quanto do design. Esse diálogo contínuo foi essencial para assegurar que o desenvolvimento seguisse conforme os objetivos propostos e permitiu ajustes necessários ao longo do processo.
-
-Também atuei como QA (Quality Assurance), testando as funcionalidades desenvolvidas pela equipe e validando as entregas. Realizei testes manuais, simulando cenários reais de uso, garantindo a funcionalidade correta e identificando possíveis problemas antes da apresentação final ao cliente.
-
-##
-
-#### Hard Skills
-* Java Spring Boot: uso com autonomia.
-* Python: consigo ensinar.
-* MySQL: uso com autonomia.
-* Firebase: uso com autonomia.
-* Vue.js: uso com ajuda.
-* Maven: uso com autonomia.
-
-##
-
-#### Soft Skills
-Durante o projeto, enfrentei uma situação desafiadora onde, devido a problemas com outro grupo, meu colega e eu tivemos que reiniciar o projeto praticamente do zero. A partir disso, foi necessário usar todo o feedback do cliente e as informações que tínhamos até o momento para reconstruir e finalizar o projeto dentro do prazo estabelecido. Esse cenário me fez desenvolver e aplicar diversas soft skills.
-
-A habilidade de resiliência foi essencial, já que tive que me adaptar rapidamente a um novo cronograma apertado, sem perder o foco na qualidade das entregas. Também aprendi a gerenciar melhor o tempo e as prioridades, organizando as tarefas de forma eficiente para lidar com a pressão de prazos e grande volume de trabalho simultâneo. Trabalhar sob pressão foi uma constante, e isso me ensinou a manter a calma e a tomar decisões mais assertivas, mesmo em momentos de estresse.
-
-Além disso, a comunicação foi crucial para manter o alinhamento com o cliente, garantindo que suas necessidades fossem atendidas, e com o time, para que todos estivessem cientes das mudanças e prioridades.
-
-<hr>
-</details>
-
-<details>
-<summary>
-  <h3>Em 2023-2 - Sistema de Organização, Gerenciamento e Auditoria de Processos (SOGAP)</h3>
+  <h3>3º Semestre - Sistema de Organização, Gerenciamento e Auditoria de Processos (SOGAP)</h3>
 </summary>
 
 ##
@@ -216,7 +129,7 @@ Durante o projeto SOGAP, trabalhei em diversas frentes de desenvolvimento que me
 
 <details>
 <summary>
-<h3>Em 2024-1 - Synergy</h3>
+<h3>4º Semestre - Synergy</h3>
 </summary>
 
 ##
@@ -312,14 +225,16 @@ Durante o desenvolvimento deste projeto, uma das situações que mais me desafio
 
 <details>
 <summary>
-<h3>Em 2024-2 - ClimaTrack</h3>
+<h3>5º Semestre - ClimaTrack</h3>
 </summary>
 
 ##
 
 O projeto foi desenvolvido em parceria com a Kersys, que atua no setor agrícola, fornecendo soluções tecnológicas voltadas para o monitoramento e gestão climática em áreas rurais. Os requisitos foram apresentados durante a reunião de Kick-Off, pelo diretor de projetos da empresa, José Roberto Pereira Jr.
 
-O desafio proposto envolvia o desenvolvimento de um aplicativo que permitisse o cadastro de pontos de monitoramento e oferecesse aos usuários gráficos e relatórios com as variações de pluviosidade e temperatura. A aplicação também deveria emitir alertas e notificações em casos de situações críticas, garantindo que o usuário pudesse visualizar dados consolidados por mês ou ano. Além disso, a solução precisava funcionar em áreas com baixa conectividade à internet e garantir a segurança das informações dos usuários.
+Os produtores atendidos pela Kersys vinham enfrentando dificuldades para acompanhar, de forma clara e organizada, o comportamento climático de suas lavouras ao longo do tempo. A ausência de ferramentas práticas para consolidar e visualizar dados como temperatura e pluviosidade dificultava o planejamento das atividades no campo, além de tornar mais difícil a identificação de padrões que pudessem orientar decisões estratégicas. Essa limitação aumentava a vulnerabilidade dos agricultores frente a eventos climáticos extremos, como longos períodos de seca ou chuvas intensas.
+
+Diante deste cenário, o desafio proposto envolvia o desenvolvimento de um aplicativo que permitisse o cadastro de pontos de monitoramento e oferecesse aos usuários gráficos e relatórios com as variações de pluviosidade e temperatura. A aplicação também deveria emitir alertas e notificações em casos de situações críticas, garantindo que o usuário pudesse visualizar dados consolidados por mês ou ano. Além disso, a solução precisava funcionar em áreas com baixa conectividade à internet e garantir a segurança das informações dos usuários.
 
 Como solução, desenvolvemos um aplicativo para auxiliar produtores rurais no monitoramento climático de suas plantações. A aplicação permite cadastrar locais de interesse por meio de um mapa ou coordenadas de latitude e longitude, exibir gráficos detalhados das variações de temperatura e pluviosidade, e emitir alertas em situações críticas. Além disso, oferece visualização de dados históricos consolidados por mês ou ano, proporcionando uma visão completa e acessível para decisões estratégicas.
 
@@ -393,5 +308,92 @@ Durante o desenvolvimento do sistema de notificações, utilizei diversas soft s
 **Resolução de Problemas** - Em alguns momentos, houve desafios relacionados ao tratamento de erros nas respostas das APIs. Utilizei minhas habilidades de resolução de problemas para identificar falhas nas requisições e implementando soluções adequadas para garantir que o sistema fosse resiliente. Após identificar a origem do problema, desenvolvi abordagens para lidar com as falhas de forma que o impacto no sistema fosse minimizado e a experiência do usuário não fosse comprometida.
 
 **Organização** - Dada a complexidade do sistema e a necessidade de integração de múltiplas verificações, uma boa organização foi crucial para garantir que todas as partes do projeto fossem desenvolvidas de maneira coordenada. Planejei e documentei o processo de integração e como cada verificação climática deveria ser tratada, o que facilitou o entendimento e a execução da tarefa pelos outros membros da equipe.
+<hr>
+</details>
+
+<details>
+<summary>
+<h3>6º Semestre - FastChat Help Desk</h3>
+</summary>
+
+##
+
+O projeto foi desenvolvido em parceria com a Anova Sistemas, uma empresa de soluções tecnológicas, com foco na automação e otimização de processos para seus clientes. Os requisitos foram apresentados durante a reunião de Kick-Off, através do professor e PO responsável, Cláudio Etelvino de Lima.
+
+A necessidade apresentada pela Anova foi a criação de um sistema de comunicação interno que permitisse a interação em tempo real entre colaboradores e clientes. Esse sistema precisava ser eficiente, responsivo, e com níveis de acesso claramente definidos, facilitando a comunicação e o gerenciamento de contatos de maneira centralizada.
+
+Como solução, foi desenvolvido um sistema de comunicação interna, permitindo a interação em tempo real entre funcionários e clientes. O sistema conta com uma interface flutuante e intuitiva, níveis de permissão para diferentes usuários e integração com um banco de dados relacional. Além disso, implementamos um chatbot com inteligência artificial para automatizar o atendimento e ajudar na resolução de dúvidas e solicitações.
+
+<h4><details><br>
+<summary>Detalhes ...</summary>
+
+## Algumas imagens do sistema
+
+* <b>Dashboard de Atividades</b>
+<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Ativ_1.jpg"/>
+
+###
+
+* <b>Inserção de Atividades</b>
+<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/InsAtiv_1.jpg"/>
+
+###
+
+* <b>Tela do Chat e Contatos</b>
+<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Chat_1.jpg"/>
+
+###
+
+* <b>Grupos de Pessoas no Chat</b>
+<img controls src="https://raw.githubusercontent.com/ads-fatec-fastchat/fast-chat/prints/docs/prints/Grupos_1.jpg"/>
+
+</details>
+</h4>
+
+##
+
+#### Repositório do Projeto
+[Github - FastChat Help Desk](https://github.com/ads-fatec-fastchat/fast-chat)
+
+##
+
+#### Tecnologias Utilizadas
+* Java Spring Boot: Utilizado no backend para gerenciar as requisições, criar rotas de API, autenticação, e comunicação com o banco de dados. Sua robustez e escalabilidade foram essenciais para garantir um backend eficiente e seguro.
+* Python: Empregado na criação do chatbot, responsável por processar interações dos usuários, implementar a lógica conversacional e fornecer respostas automatizadas baseadas em consultas ao banco de dados.
+* MySQL: Usado como o banco de dados principal para armazenar informações do bot e dados gerais da aplicação. Sua confiabilidade e fácil integração com o backend permitiram uma gestão eficiente dos dados.
+* Firebase: Utilizado no frontend, principalmente para o gerenciamento de autenticação e hospedagem de dados em tempo real, melhorando a comunicação entre o frontend e o backend.
+* Vue.js: Framework JavaScript adotado no frontend para criar interfaces interativas e dinâmicas. Sua flexibilidade permitiu o desenvolvimento de uma experiência de usuário fluida e responsiva.
+* Maven: Ferramenta de automação de build, utilizada para gerenciar dependências no projeto e facilitar o processo de compilação e execução da aplicação Java.
+
+##
+
+#### Contribuições Pessoais
+Nesse projeto, assumi o papel de Product Owner (PO), sendo responsável por gerenciar e validar o andamento do projeto, sempre buscando garantir que o desenvolvimento estivesse alinhado com as expectativas do cliente.
+
+Uma das minhas principais responsabilidades foi cuidar de toda a documentação do projeto, abrangendo desde o Plano de Gerenciamento de Riscos até a Declaração de Escopo, Matriz RACI e o Plano de Negócios. Esses documentos foram fundamentais para organizar o fluxo de trabalho e possibilitar uma visão clara e estruturada das etapas e riscos envolvidos no projeto.
+
+Além da criação e manutenção da documentação, estive em constante contato com o cliente, realizando validações frequentes tanto dos requisitos quanto do design. Esse diálogo contínuo foi essencial para assegurar que o desenvolvimento seguisse conforme os objetivos propostos e permitiu ajustes necessários ao longo do processo.
+
+Também atuei como QA (Quality Assurance), testando as funcionalidades desenvolvidas pela equipe e validando as entregas. Realizei testes manuais, simulando cenários reais de uso, garantindo a funcionalidade correta e identificando possíveis problemas antes da apresentação final ao cliente.
+
+##
+
+#### Hard Skills
+* Java Spring Boot: uso com autonomia.
+* Python: consigo ensinar.
+* MySQL: uso com autonomia.
+* Firebase: uso com autonomia.
+* Vue.js: uso com ajuda.
+* Maven: uso com autonomia.
+
+##
+
+#### Soft Skills
+Durante o projeto, enfrentei uma situação desafiadora onde, devido a problemas com outro grupo, meu colega e eu tivemos que reiniciar o projeto praticamente do zero. A partir disso, foi necessário usar todo o feedback do cliente e as informações que tínhamos até o momento para reconstruir e finalizar o projeto dentro do prazo estabelecido. Esse cenário me fez desenvolver e aplicar diversas soft skills.
+
+A habilidade de resiliência foi essencial, já que tive que me adaptar rapidamente a um novo cronograma apertado, sem perder o foco na qualidade das entregas. Também aprendi a gerenciar melhor o tempo e as prioridades, organizando as tarefas de forma eficiente para lidar com a pressão de prazos e grande volume de trabalho simultâneo. Trabalhar sob pressão foi uma constante, e isso me ensinou a manter a calma e a tomar decisões mais assertivas, mesmo em momentos de estresse.
+
+Além disso, a comunicação foi crucial para manter o alinhamento com o cliente, garantindo que suas necessidades fossem atendidas, e com o time, para que todos estivessem cientes das mudanças e prioridades.
+
 <hr>
 </details>
