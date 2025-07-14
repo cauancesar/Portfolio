@@ -30,6 +30,10 @@ Meu foco está no desenvolvimento back-end, embora também tenha um bom conhecim
 * PostgreSQL
 * Docker
 * React
+* VueJs
+* Nuxt
+* NodeJs
+* NestJs
 
 
 ## Meus Projetos
